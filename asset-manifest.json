@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.608080e5.css",
+    "main.js": "/static/js/main.7e955ff8.js",
+    "static/media/controller.glb": "/static/media/controller.58c3eae031e78064ca95.glb",
+    "static/media/pano-sky.jpg": "/static/media/pano-sky.6dea74b438169e178d83.jpg",
+    "static/media/brand-1.jpg": "/static/media/brand-1.fbe3c6c612cc190dc505.jpg",
+    "static/media/table.glb": "/static/media/table.639a5401ab76423dd6b6.glb",
+    "static/media/negy-re.jpg": "/static/media/negy-re.04577519465b6a9a42de.jpg",
+    "static/media/negz-re.jpg": "/static/media/negz-re.80aec5363a8390e4b7ad.jpg",
+    "static/media/brand-3.jpg": "/static/media/brand-3.d0f58f81a7ab7c9d7a66.jpg",
+    "static/media/brand-2.jpg": "/static/media/brand-2.29560b6f7d1c6c4ced95.jpg",
+    "static/media/negx-re.jpg": "/static/media/negx-re.bb899a6bbc90454adc36.jpg",
+    "static/media/brand-0.jpg": "/static/media/brand-0.3178db10449f4baf0b78.jpg",
+    "static/media/brand.jpg": "/static/media/brand.23dba5d94d8bbf532191.jpg",
+    "static/media/ground.JPG": "/static/media/ground.5a0f8a17f65f83e226ef.JPG",
+    "index.html": "/index.html",
+    "main.608080e5.css.map": "/static/css/main.608080e5.css.map",
+    "main.7e955ff8.js.map": "/static/js/main.7e955ff8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.608080e5.css",
+    "static/js/main.7e955ff8.js"
+  ]
+}

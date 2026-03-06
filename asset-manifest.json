@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.608080e5.css",
-    "main.js": "/static/js/main.6eea49ce.js",
+    "main.js": "/static/js/main.2f3489e9.js",
     "static/media/controller.glb": "/static/media/controller.58c3eae031e78064ca95.glb",
     "static/media/pano-sky.jpg": "/static/media/pano-sky.6dea74b438169e178d83.jpg",
+    "static/media/table-0.glb": "/static/media/table-0.9686478b2d9ff138ce61.glb",
+    "static/media/wood.png": "/static/media/wood.e65d4c6ac0031195b68e.png",
     "static/media/negy-re.jpg": "/static/media/negy-re.04577519465b6a9a42de.jpg",
     "static/media/negz-re.jpg": "/static/media/negz-re.80aec5363a8390e4b7ad.jpg",
     "static/media/negx-re.jpg": "/static/media/negx-re.bb899a6bbc90454adc36.jpg",
-    "static/media/table.glb": "/static/media/table.456ed37216b6938faf32.glb",
-    "static/media/brand.jpg": "/static/media/brand.23dba5d94d8bbf532191.jpg",
     "static/media/table.jpg": "/static/media/table.9128ef841eca9c196316.jpg",
     "static/media/ground.JPG": "/static/media/ground.5a0f8a17f65f83e226ef.JPG",
     "index.html": "/index.html",
     "main.608080e5.css.map": "/static/css/main.608080e5.css.map",
-    "main.6eea49ce.js.map": "/static/js/main.6eea49ce.js.map"
+    "main.2f3489e9.js.map": "/static/js/main.2f3489e9.js.map"
   },
   "entrypoints": [
     "static/css/main.608080e5.css",
-    "static/js/main.6eea49ce.js"
+    "static/js/main.2f3489e9.js"
   ]
 }
